@@ -1,3 +1,4 @@
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-
+#
+echo "Spock?"
 echo "Live long and prosper"
+echo "Peace and long life"
