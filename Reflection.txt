@@ -1,0 +1,4 @@
+TheGit challenge was informative, but it was rather frustrating as well. Most of that was on my part as I did not pull the updated files
+as promptly as recommended. I also made the mistake of not using Visual Studio Code in this assignment, so as I went along I could not directly
+observe the input and output. Also, I did not get the larger picture for some of the steps: their context was too isolated and I think it could
+have been better implemented in another design. Maybe as a part of the other homework.
